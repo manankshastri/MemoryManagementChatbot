@@ -33,8 +33,6 @@ In this project, we will analyze and modify the program. Although the program ca
 
 Currently, the program crashes when we close the window. There is a small bug hidden somewhere, which has something to do with improper memory management. So the first warm-up task will be to find this bug and remove it. This should familiarize us with the code and set us up for the rest of the upcoming tasks.
 
-Aside from the bug mentioned above, there are five additional major student tasks in the Memory Management chatbot project, which are:
-
 ### Task 1 : Exclusive Ownership 1
 In file `chatgui.h` / `chatgui.cpp`, make `_chatLogic` an exclusive resource to class `ChatbotPanelDialog` using an appropriate smart pointer. Where required, make changes to the code such that data structures and function parameters reflect the new structure. 
 
