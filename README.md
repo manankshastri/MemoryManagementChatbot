@@ -1,6 +1,4 @@
-# CPPND: Memory Management Chatbot
-
-This is the project for the third course in the [Udacity C++ Nanodegree Program](https://www.udacity.com/course/c-plus-plus-nanodegree--nd213): Memory Management.
+Memory Management Chatbot
 
 <img src="images/chatbot_demo.gif"/>
 
@@ -8,7 +6,7 @@ The ChatBot code creates a dialogue where users can ask questions about some asp
 
 In this project you will analyze and modify the program. Although the program can be executed and works as intended, no advanced concepts as discussed in this course have been used; there are currently no smart pointers, no move semantics and not much thought has been given to ownership or memory allocation.
 
-Your goal is to use the course knowledge to optimize the ChatBot program from a memory management perspective. There are a total of five specific tasks to be completed, which are detailed below.
+The goal is to optimize the ChatBot program from a memory management perspective.
 
 ## Dependencies for Running Locally
 * cmake >= 3.11
